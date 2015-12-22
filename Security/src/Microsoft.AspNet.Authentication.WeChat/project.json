@@ -1,0 +1,16 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Microsoft.AspNet.Authentication.WeChat Class Library",
+  "authors": [ "Kailyn.zhang" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": { }
+  },
+  "dependencies": {
+    "Microsoft.AspNet.Authentication.OAuth": "1.0.0-rc1-final"
+  }
+}
