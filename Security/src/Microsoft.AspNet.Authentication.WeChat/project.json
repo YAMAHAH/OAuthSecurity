@@ -1,9 +1,9 @@
 ﻿{
-  "version": "1.0.0-*",
-  "description": "Microsoft.AspNet.Authentication.WeChat Class Library",
-  "authors": [ "Kailyn.zhang" ],
-  "tags": [ "" ],
-  "projectUrl": "",
+  "version": "1.0.0-rc1-final",
+  "description": "asp.net5 微信第三方登录",
+  "authors": [ "dill.zhang" ],
+  "tags": [ "asp.net5", "Authentication" ],
+  "projectUrl": "https://github.com/dillonnet/OAuthSecurity/tree/master/Security/src/Microsoft.AspNet.Authentication.WeChat",
   "licenseUrl": "",
 
   "frameworks": {

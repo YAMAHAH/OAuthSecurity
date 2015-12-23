@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Microsoft.AspNet.Authentication.WeChat")]
+[assembly: AssemblyTitle("Microsoft.AspNet.Authentication.QQ")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Microsoft.AspNet.Authentication.WeChat")]
+[assembly: AssemblyProduct("Microsoft.AspNet.Authentication.QQ")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,4 +20,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0983fa07-4c62-417f-8078-36905bff7c1a")]
+[assembly: Guid("5329161d-2cbb-46a6-a1fb-b61cfc9865de")]
